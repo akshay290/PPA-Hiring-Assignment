@@ -181,7 +181,7 @@ export const LandingPage = (): JSX.Element => {
                   </div>
                 </div>
                 <div className="inline-flex items-center gap-4 relative flex-[0_0_auto]">
-                  <img className="relative w-12 h-12" alt="Icon" src="icon-6.svg" />
+                  <img className="relative w-12 h-12" alt="Icon" src="icon-4.svg" />
                   <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
                     <div className="relative w-[191px] mt-[-1.00px] font-heading-headline-3 font-[number:var(--heading-headline-3-font-weight)] text-neutraldgrey text-[length:var(--heading-headline-3-font-size)] tracking-[var(--heading-headline-3-letter-spacing)] leading-[var(--heading-headline-3-line-height)] [font-style:var(--heading-headline-3-font-style)]">
                       46,328
@@ -205,7 +205,7 @@ export const LandingPage = (): JSX.Element => {
                   </div>
                 </div>
                 <div className="inline-flex items-center gap-4 relative flex-[0_0_auto]">
-                  <img className="relative w-12 h-12" alt="Icon" src="icon.svg" />
+                  <img className="relative w-12 h-12" alt="Icon" src="Icon.svg" />
                   <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
                     <div className="relative w-[191px] mt-[-1.00px] font-heading-headline-3 font-[number:var(--heading-headline-3-font-weight)] text-neutraldgrey text-[length:var(--heading-headline-3-font-size)] tracking-[var(--heading-headline-3-letter-spacing)] leading-[var(--heading-headline-3-line-height)] [font-style:var(--heading-headline-3-font-style)]">
                       1,926,436
@@ -225,8 +225,8 @@ export const LandingPage = (): JSX.Element => {
                   {/* <img className="absolute w-[442px] h-[381px] top-0 left-0" alt="Background complete" /> */}
                   {/* <img className="absolute w-80 h-[298px] top-[88px] left-12" alt="Background simple" /> */}
                   <img className="absolute w-[321px] h-px top-[433px] left-14" alt="Floor" src="floor.png" />
-                  <img className="absolute w-[86px] h-[148px] top-[196px] left-[287px]" alt="Plant" src="plant.png" />
-                  <img className="absolute w-[86px] h-[103px] top-[5px] left-[282px]" alt="Padlock" src="padlock.png" />
+                  <img className="absolute w-[86px] h-[148px] top-[196px] left-[287px]" alt="Plant" src="Plant.png" />
+                  <img className="absolute w-[86px] h-[103px] top-[5px] left-[282px]" alt="Padlock" src="Padlock.png" />
                   <div className="absolute w-[158px] h-[345px] top-[51px] left-[163px]">
                     <div className="relative w-[156px] h-[345px]">
                       <img
@@ -285,7 +285,7 @@ export const LandingPage = (): JSX.Element => {
                       <img className="absolute w-1 h-1 top-[194px] left-[52px]" alt="Vector" src="vector-2.svg" />
                       <img className="absolute w-1 h-1 top-[194px] left-[58px]" alt="Vector" src="vector-2.svg" />
                       {/* <img className="absolute w-1 h-1 top-[194px] left-[65px]" alt="Vector" src="vector-3.svg" /> */}
-                      <img className="absolute w-1 h-[5px] top-[194px] left-[72px]" alt="Vector" src="vector-7.svg" />
+                      {/* <img className="absolute w-1 h-[5px] top-[194px] left-[72px]" alt="Vector" src="vector-7.svg" /> */}
                       {/* <img className="absolute w-1 h-1 top-[194px] left-[78px]" alt="Vector" src="vector-3.svg" /> */}
                       <img className="absolute w-1 h-1 top-[194px] left-[85px]" alt="Vector" src="vector-2.svg" />
                       {/* <img className="absolute w-[57px] h-[5px] top-[194px] left-8" alt="Group" src="group.png" /> */}
