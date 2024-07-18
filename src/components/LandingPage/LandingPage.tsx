@@ -229,7 +229,6 @@ export const LandingPage = (): JSX.Element => {
                   <img className="absolute w-[86px] h-[103px] top-[5px] left-[282px]" alt="Padlock" src="padlock.png" />
                   <div className="absolute w-[158px] h-[345px] top-[51px] left-[163px]">
                     <div className="relative w-[156px] h-[345px]">
-                      <img className="absolute w-[149px] h-[304px] top-0 left-0" alt="Vector" src="vector-6.svg" />
                       <img
                         className="absolute w-[136px] h-[284px] top-[9px] left-[7px]"
                         alt="Vector"
@@ -289,7 +288,7 @@ export const LandingPage = (): JSX.Element => {
                       <img className="absolute w-1 h-[5px] top-[194px] left-[72px]" alt="Vector" src="vector-7.svg" />
                       {/* <img className="absolute w-1 h-1 top-[194px] left-[78px]" alt="Vector" src="vector-3.svg" /> */}
                       <img className="absolute w-1 h-1 top-[194px] left-[85px]" alt="Vector" src="vector-2.svg" />
-                      <img className="absolute w-[57px] h-[5px] top-[194px] left-8" alt="Group" src="group.png" />
+                      {/* <img className="absolute w-[57px] h-[5px] top-[194px] left-8" alt="Group" src="group.png" /> */}
                       {/* <img className="absolute w-3.5 h-[15px] top-[39px] left-[71px]" alt="Vector" src="image.svg" /> */}
                       {/* <img className="absolute w-3.5 h-[15px] top-[39px] left-[71px]" alt="Vector" src="image.svg" /> */}
                       {/* <img className="absolute w-[49px] h-1.5 top-[58px] left-[53px]" alt="Vector" src="vector.svg" /> */}
@@ -304,7 +303,7 @@ export const LandingPage = (): JSX.Element => {
                   <img
                     className="absolute w-[148px] h-72 top-[145px] left-[86px]"
                     alt="Character"
-                    src="character.png"
+                    src="Character.png"
                   />
                 </div>
               </div>
@@ -445,7 +444,7 @@ export const LandingPage = (): JSX.Element => {
             <div className="inline-flex flex-col items-start gap-10 relative flex-[0_0_auto] overflow-hidden">
               <div className="inline-flex items-center gap-[9.89px] relative flex-[0_0_auto]">
                 <Icon className="your-custom-classname"/>
-                <img className="relative w-[137.84px] h-[25.54px]" alt="Nexcent" src="nexcent.svg" />
+                <img className="relative w-[137.84px] h-[25.54px]" alt="Nexcent" src="nexcent-2.svg" />
               </div>
               <div className="inline-flex flex-col items-center gap-2 relative flex-[0_0_auto]">
                 <p className="relative w-[350px] mt-[-1.00px] font-body-regular-body-3 font-[number:var(--body-regular-body-3-font-weight)] text-neutralsilver text-[length:var(--body-regular-body-3-font-size)] tracking-[var(--body-regular-body-3-letter-spacing)] leading-[var(--body-regular-body-3-line-height)] [font-style:var(--body-regular-body-3-font-style)]">
@@ -565,7 +564,7 @@ export const LandingPage = (): JSX.Element => {
           </div>
           <div className="inline-flex items-center gap-2 absolute top-[30px] left-[105px]">
             <Icon className="icon-class" />
-            <img className="relative w-[111.49px] h-[20.66px]" alt="Nexcent" src="nexcent-2.svg" />
+            <img className="relative w-[111.49px] h-[20.66px]" alt="Nexcent" src="Logo.svg" />
           </div>
           <div className="inline-flex items-start gap-3.5 absolute top-[22px] left-[1138px]">
             <button className="all-[unset] box-border gap-2.5 px-5 py-2.5 bg-neutralsilver rounded-md inline-flex items-center relative flex-[0_0_auto]">
