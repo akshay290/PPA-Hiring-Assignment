@@ -224,7 +224,7 @@ export const LandingPage = (): JSX.Element => {
                 <div className="relative w-[442px] h-[434px]">
                   {/* <img className="absolute w-[442px] h-[381px] top-0 left-0" alt="Background complete" /> */}
                   {/* <img className="absolute w-80 h-[298px] top-[88px] left-12" alt="Background simple" /> */}
-                  <img className="absolute w-[321px] h-px top-[433px] left-14" alt="Floor" src="floor.png" />
+                  {/* <img className="absolute w-[321px] h-px top-[433px] left-14" alt="Floor" src="floor.png" /> */}
                   <img className="absolute w-[86px] h-[148px] top-[196px] left-[287px]" alt="Plant" src="Plant.png" />
                   <img className="absolute w-[86px] h-[103px] top-[5px] left-[282px]" alt="Padlock" src="Padlock.png" />
                   <div className="absolute w-[158px] h-[345px] top-[51px] left-[163px]">
