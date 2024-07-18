@@ -34,7 +34,7 @@ export const LandingPage = (): JSX.Element => {
                   type="primary"
                 />
               </div>
-              <img className="relative w-[391px] h-[407px]" alt="Illustration" src="illustration.svg" />
+              <img className="relative w-[391px] h-[407px]" alt="Illustration" src="Illustration.svg" />
             </div>
             <div className="flex flex-col w-[1440px] items-center gap-4 px-36 py-0 relative flex-[0_0_auto]">
               <div className="flex flex-col w-[1110px] items-center gap-2 relative flex-[0_0_auto]">
@@ -280,7 +280,7 @@ export const LandingPage = (): JSX.Element => {
                       {/* <img className="absolute w-[49px] h-[5px] top-[147px] left-8" alt="Vector" src="vector-4.svg" />
                       <img className="absolute w-[49px] h-[5px] top-[147px] left-8" alt="Vector" src="vector-4.svg" /> */}
                       <img className="absolute w-1 h-1 top-[194px] left-8" alt="Vector" src="vector-2.svg" />
-                      <img className="absolute w-1 h-[5px] top-[194px] left-[39px]" alt="Vector" src="vector-7.svg" />
+                      {/* <img className="absolute w-1 h-[5px] top-[194px] left-[39px]" alt="Vector" src="vector-7.svg" /> */}
                       <img className="absolute w-1 h-1 top-[194px] left-[45px]" alt="Vector" src="vector-2.svg" />
                       <img className="absolute w-1 h-1 top-[194px] left-[52px]" alt="Vector" src="vector-2.svg" />
                       <img className="absolute w-1 h-1 top-[194px] left-[58px]" alt="Vector" src="vector-2.svg" />
